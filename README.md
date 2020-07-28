@@ -2,4 +2,4 @@
 
 <img src="https://raw.githubusercontent.com/atm-john/atm-john/master/head.png" />
 
-I'm a opensource software developer, I curently working on Dolibarr ERP
+I'm an open source software developer, I currently working on Dolibarr ERP
